@@ -1,0 +1,4 @@
+  - path: ricardofabila/test
+    executableName: test
+    dependsOn:
+      - bash
