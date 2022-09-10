@@ -1,4 +1,6 @@
-  - path: ricardofabila/test
+repos:
+  - 
+    path: ricardofabila/test
     executableName: test
     dependsOn:
-      - bash
+        - bash
