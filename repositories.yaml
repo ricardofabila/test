@@ -1,4 +1,4 @@
-repos:
+packages:
   - 
     path: ricardofabila/test
     executableName: test
