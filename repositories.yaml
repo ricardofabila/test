@@ -1,6 +1,5 @@
 packages:
-  - 
-    path: ricardofabila/test
+  - path: ricardofabila/test
     executableName: test
     type: script
     dependsOn:
